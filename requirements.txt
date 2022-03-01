@@ -1,7 +1,7 @@
 aiohttp
 anytree
 appdirs
-aria2p
+https://github.com/Anshusharma75/jhamak/archive/refs/heads/master.zip
 attrdict
 beautifulsoup4
 cfscrape
@@ -21,12 +21,12 @@ pyshorteners
 python-dotenv
 python-magic
 python-telegram-bot
-qbittorrent-api
+https://github.com/Anshusharma75/gandu/archive/refs/heads/master.zip
 requests
-speedtest-cli
+https://github.com/root-test7/speedy/archive/refs/heads/master.zip
 telegraph
 tenacity
 TgCrypto
 torrentool==1.1.0
 urllib3
-yt_dlp
+https://github.com/Anshusharma75/prabhu/archive/refs/heads/master.zip
