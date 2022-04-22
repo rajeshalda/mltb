@@ -217,7 +217,7 @@ class MirrorListener(listeners.MirrorListeners):
                 uname = f'<a href="tg://user?id={self.message.from_user.id}">{self.message.from_user.first_name}</a>'
             count = len(files)
             msg = f'╭─📂<b>Name: </b><code>{link}</code>\n│\n'
-            msg += f'╰─📚<b>Total Files: </b>{count}'
+            msg += f'├─📚<b>Total Files: </b>{count}'
             if typ != 0:
                 msg += f'\n<b>Corrupted Files: </b>{typ}'
             if self.message.chat.type == 'private':
